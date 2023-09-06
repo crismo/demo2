@@ -6,3 +6,4 @@ let message = 'Guess a number between ' + MIN + ' and ' + MAX;
 
 
 console.log("Guess my number");
+console.log(`It is between ${MIN} and ${MAX}`);
